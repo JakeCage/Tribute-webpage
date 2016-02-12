@@ -1,0 +1,42 @@
+body {
+  background-color: #FFFFFF;
+}
+img{
+  display: block;
+  margin: auto;
+  width: 70%;
+}
+.container{
+  background-color: #EEEEEE;
+  margin-top: 3%;
+  margin-bottom: 3%;
+  margin-left:  10%;
+  margin-right:  100px;
+  width: 80%;
+}
+.imgpair{
+  background-color: #FFFFFF;
+  width: 90%;
+  left: 5%;
+}
+.imgpair > img{
+  width: 101%;
+  margin-left: -6px;
+}
+.strTimeline{
+  position: relative;
+  padding-top: 540px;
+}
+.timeline{
+  margin-left: 430px;
+}
+p{
+  padding-right: 250px;
+}
+.finishhim > h3{
+  padding-left: 350px;
+  padding-right: 250px;
+}
+footer{
+  padding-left: 10%;
+}
